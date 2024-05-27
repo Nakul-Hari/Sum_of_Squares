@@ -62,10 +62,7 @@ This Verilog-based digital system efficiently computes the sum of squares of the
 
 ## Getting Started
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/Sum_of_Squares_Verilog.git
-    ```
+1. Clone the repository
 2. Open the Verilog files in your preferred Verilog simulator or FPGA development environment.
 3. Run the testbench to verify the design.
 
