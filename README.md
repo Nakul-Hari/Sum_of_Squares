@@ -55,16 +55,10 @@ This Verilog-based digital system efficiently computes the sum of squares of the
 
 ## Files in the Repository
 
-- `top_module.v`: Verilog code for the top module.
-- `datapath.v`: Verilog code for the data path module.
-- `controlpath.v`: Verilog code for the control path module.
-- `testbench.v`: Verilog code for the testbench module.
+- `EE5516_Assignment1_LabReport.pdf`: Lab Report Submitted for the following Code.
+- `NSquareSum.v`: Verilog code for the Data path and Control path module.
+- `NSquareSum_Testbench.v`: Verilog code for the testbench module.
 - `README.md`: This readme file.
-- `Nsquared_Question.png`: Diagram explaining the algorithm.
-- `Nsquared.png`: Data path architecture diagram.
-- `Nsquared_FSM.png`: FSM level abstraction diagram.
-- `Nsquared_Hierarchial.png`: Hierarchical model diagram.
-- `Nsquared_waveform.png`: Output waveforms from the testbench simulation.
 
 ## Getting Started
 
